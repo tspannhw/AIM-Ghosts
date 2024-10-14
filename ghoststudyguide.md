@@ -38,7 +38,7 @@ Hybrid search combines multiple search techniques, including vector similarity s
 
 Future applications include a ghost reporting app, a thermal camera app on a Raspberry Pi for detection, 
 a collector trap also on a Raspberry Pi, a RAG (Retrieval Augmented Generation) app, a Java enterprise application for data management, and advanced analytics using Jupyter notebooks.
-```
+````
 
 #### Essay Questions
 
@@ -54,6 +54,7 @@ Analyze the role of community involvement in the Ghost Capture project. How can 
 Imagine a future where ghost data is widely available and integrated with other datasets. Discuss the potential societal, cultural, and scientific impacts of such a development.
 
 ````
+
 
 ### Glossary of Key Terms
 
